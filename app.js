@@ -88,7 +88,7 @@ function countDown()
         clearInterval(moleMoveId);
 
         setTimeout(()=>{
-        alert("Congratulations! You have won.");
+        alert("Congratulations! You are a gay now.");
         },1000)
     }
     else if(currentTime==0 && result<40)
